@@ -26,7 +26,7 @@
     function changeNames() {
         var currentName = names[nameIndex];
         document.getElementById("name").textContent = currentName.name;
-        document.getElementById("").style.color = currentName.color;
+        document.getElementById("https://discord.gg/llll").style.color = currentName.color;
         nameIndex = (nameIndex + 1) % names.length;
     }
 
@@ -57,7 +57,7 @@
 </html>
 <html>
 <head>
-    <title>..</title>
+    <title>Molten</title>
     <style>
         body {
             font-family: Arial, sans-serif;
