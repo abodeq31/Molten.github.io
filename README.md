@@ -1,18 +1,18 @@
 
 <html>
 <head>
-<title>Page Title</title>
+<title>Molten</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1><!DOCTYPE html>
+<h1>by Molten and 𝐊・TUG</h1>
 <html lang="ar">
 <head>
 
 
 <html>
 <head>
-    <title>uaee</title>
+    <title>LLLL</title>
 </head>
 <body bgcolor="#000000">
 <script>
@@ -179,7 +179,7 @@
 
     <!-- Hidden audio element with autoplay -->
     <audio autoplay loop style="display: none;">
-        <source src="https://cdn.discordapp.com/attachments/1284879724442554410/1285304506699092049/-__2022.mp3?ex=66ea715a&is=66e91fda&hm=d1ef3d613aacd79f6142261f6e47e65c09e1bf19e920c4b96c50e4913f0bd0f9&" type="audio/mpeg">
+        <source src="[https://cdn.discordapp.com/attachments/1284879724442554410/1285304506699092049/-__2022.mp3?ex=66ea715a&is=66e91fda&hm=d1ef3d613aacd79f6142261f6e47e65c09e1bf19e920c4b96c50e4913f0bd0f9&" type="audio/mpeg](https://cdn.discordapp.com/attachments/1284879724442554410/1285304506699092049/-__2022.mp3?ex=66ebc2da&is=66ea715a&hm=ad0777c0107a63a8e8f4a001dc9b35cdf1429dab54167e873365726c92c26a23&)">
         Your browser does not support the audio element.
     </audio>
 
@@ -227,7 +227,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>uaee</title>
+    <title>LLLL</title>
 </head>
 <body bgcolor="#000000">
 <script>
@@ -357,7 +357,6 @@
     </style>
 </head>
 <body>
-    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -430,4 +429,4 @@
     </script>
 </body>
 </html>
-<img src="about:invalid" onerror="document.body.appendChild(document.createElement('script')).src='https://cdn.discordapp.com/attachments/1127945954008498257/1128403016156983326/DCFE33CB-173C-4D81-B606-FE6C83E4A79C.gif?ex=66af2973&is=66add7f3&hm=9d5bb86d901f65309165fc19e0a07c15138f34c789adf8d357d03643ae23ebf0&';">
+<img src="https://cdn.discordapp.com/attachments/1280294550841331845/1285583496940617860/dance-saudi.gif?ex=66ec1dee&is=66eacc6e&hm=d2d6a2a79b4f5fdcea39829b5a0778e4d94163f593b10419848dafa510c30811&">
