@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <title>Molten</title>
@@ -56,7 +55,6 @@
 </p>
 </body>
 </html>
-<!DOCTYPE html>
 <html>
 <head>
     <title>..</title>
@@ -142,7 +140,6 @@
     </style>
 </head>
 <body>
-    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -220,11 +217,11 @@
 </body>
 </html>
 
-<!DOCTYPE html>
+
 <html lang="ar">
 <head>
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>LLLL</title>
